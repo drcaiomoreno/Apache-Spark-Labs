@@ -12,3 +12,4 @@ Author: Caio Moreno
 
 # Learn more
 https://github.com/goldshtn/spark-workshop
+https://github.com/burun/BerkeleyX-Apache-Spark-Labs
