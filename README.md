@@ -8,6 +8,8 @@ Author: Caio Moreno
 
 [Lab 2 - Pyspark in Google Colab](https://github.com/asifahmed90/pyspark-ML-in-Colab)
 
+[Lab 3 - Analyzing UK Property Prices](https://github.com/goldshtn/spark-workshop/blob/master/python/lab4-propprices.md#lab-4-analyzing-uk-property-prices)
+
 
 
 # Learn more
