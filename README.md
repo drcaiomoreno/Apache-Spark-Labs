@@ -18,3 +18,6 @@ https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-sc
 # Learn more
 https://github.com/goldshtn/spark-workshop
 https://github.com/burun/BerkeleyX-Apache-Spark-Labs
+
+# Run on Google Collab
+https://colab.research.google.com/github/asifahmed90/pyspark-ML-in-Colab/blob/master/PySpark_Regression_Analysis.ipynb
