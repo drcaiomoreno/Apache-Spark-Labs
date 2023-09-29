@@ -10,7 +10,10 @@ Author: Caio Moreno
 
 [Lab 3 - Analyzing UK Property Prices](https://github.com/goldshtn/spark-workshop/blob/master/python/lab4-propprices.md#lab-4-analyzing-uk-property-prices)
 
+[Lab 4 - Analyzing UK Property Prices](https://github.com/goldshtn/spark-workshop/blob/master/python/lab4-propprices.md#lab-4-analyzing-uk-property-prices)
 
+# Databricks Spark + Confluent Kafka Labs
+https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-schema-registry-with-databricks-confluent-cloud-on-azure/
 
 # Learn more
 https://github.com/goldshtn/spark-workshop
