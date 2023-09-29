@@ -21,3 +21,7 @@ https://github.com/burun/BerkeleyX-Apache-Spark-Labs
 
 # Run on Google Collab
 https://colab.research.google.com/github/asifahmed90/pyspark-ML-in-Colab/blob/master/PySpark_Regression_Analysis.ipynb
+
+# Run on Google Collab
+https://colab.research.google.com/github/drcaiomoreno/mda-spark/blob/main/Lab_1_Running_Spark_on_Google_Collab_Caio_Moreno.ipynb
+
