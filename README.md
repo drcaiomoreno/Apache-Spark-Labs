@@ -23,7 +23,3 @@ https://colab.research.google.com/github/drcaiomoreno/mda-spark/blob/main/Lab_1_
 
 # Run Lab 2 on Google Collab
 https://colab.research.google.com/github/asifahmed90/pyspark-ML-in-Colab/blob/master/PySpark_Regression_Analysis.ipynb<BR>
-
-# Run Lab 3 on Google Collab
-https://colab.research.google.com/github/asifahmed90/pyspark-ML-in-Colab/blob/master/PySpark_Regression_Analysis.ipynb<BR>
-
