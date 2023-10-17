@@ -1,6 +1,6 @@
-# Modern Data Architecture - Spark
+# Modern Data Architecture
 
-Modern Data Architecture - Spark Labs
+Modern Data Architecture
 Author: Caio Moreno
 
 # Spark Labs
