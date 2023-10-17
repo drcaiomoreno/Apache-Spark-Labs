@@ -1,7 +1,7 @@
-# Modern Data Architecture
+# Spark Labs
 
-Modern Data Architecture
-Author: Caio Moreno
+This repo has the main goal to help people to start using Apache Spark.
+
 
 # Spark Labs
 [Lab 1 - Running Spark on Google Collab](https://github.com/drcaiomoreno/mda-spark/blob/main/Lab_1_Running_Spark_on_Google_Collab_Caio_Moreno.ipynb)
