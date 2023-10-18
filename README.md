@@ -23,3 +23,7 @@ https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-sc
 # Learn more
 https://github.com/goldshtn/spark-workshop <BR>
 https://github.com/burun/BerkeleyX-Apache-Spark-Labs<BR>
+
+# Spark Books GitHub Repos:
+https://github.com/drcaiomoreno/LearningSparkV2<BR>
+https://github.com/drcaiomoreno/Spark-The-Definitive-Guide<BR>
