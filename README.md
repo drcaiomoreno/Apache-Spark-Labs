@@ -39,8 +39,12 @@ https://github.com/drcaiomoreno/Spark-The-Definitive-Guide<BR>
 
 # OSBDET (Open Source Big Data Educational Toolkit)
 https://github.com/drcaiomoreno/osbdet <BR>
-https://raulmarin.me/2023/01/08/its-2023-and-osbdet-2023-release-1-is-out/ <BR>
-Link to download VMs: https://github.com/raulmarinperez/osbdet/releases/tag/v23r1 <BR>
+
+# Video to explain how to use the OSBDET (Open Source Big Data Educational Toolkit)
+https://raulmarin.me/2023/01/08/its-2023-and-osbdet-2023-release-1-is-out/
+
+# Link to download OSBDET VMs: 
+https://github.com/raulmarinperez/osbdet/releases/tag/v23r1
 
 # UTM (Software to Run the OSBDET VM on MacBook)
 https://mac.getutm.app/
