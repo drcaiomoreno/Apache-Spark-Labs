@@ -62,7 +62,7 @@ https://chat.openai.com/
 ### Developing Innovative Systems Through Responsible AI In Healthcare
 https://www.youtube.com/watch?v=bhrrJFg6H7U
 
-### Generative AI using Azure Open AI | DataHour by Dr. Caio Moreno, Senior Cloud Architect @Microsoft
+### Generative AI using Azure Open AI
 https://www.youtube.com/watch?v=gojbDZmcIyI
 
 ### Building Scalable, Secure and Responsible AI Solutions in Azure
