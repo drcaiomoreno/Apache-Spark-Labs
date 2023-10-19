@@ -18,7 +18,8 @@ https://colab.research.google.com/github/drcaiomoreno/mda-spark/blob/main/Lab_1_
 https://colab.research.google.com/github/asifahmed90/pyspark-ML-in-Colab/blob/master/PySpark_Regression_Analysis.ipynb<BR>
 
 # Databricks - Demos
-https://www.databricks.com/resources/demos/library?itm_data=demo_center
+https://www.databricks.com/resources/demos/library?itm_data=demo_center <BR>
+https://github.com/databricks-demos/dbdemos <BR>
 
 # Azure Databricks Free Course
 https://learn.microsoft.com/en-us/training/modules/explore-azure-databricks/
