@@ -17,6 +17,12 @@ https://colab.research.google.com/github/drcaiomoreno/mda-spark/blob/main/Lab_1_
 # Run Lab 2 on Google Collab
 https://colab.research.google.com/github/asifahmed90/pyspark-ML-in-Colab/blob/master/PySpark_Regression_Analysis.ipynb<BR>
 
+# Azure Databricks Free Course
+https://learn.microsoft.com/en-us/training/modules/explore-azure-databricks/
+
+# Databricks Tutorial: Query data with notebooks
+https://docs.databricks.com/en/getting-started/quick-start.html
+
 # Databricks Spark + Confluent Kafka Labs
 https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-schema-registry-with-databricks-confluent-cloud-on-azure/
 
@@ -27,3 +33,14 @@ https://github.com/burun/BerkeleyX-Apache-Spark-Labs<BR>
 # Spark Books GitHub Repos:
 https://github.com/drcaiomoreno/LearningSparkV2<BR>
 https://github.com/drcaiomoreno/Spark-The-Definitive-Guide<BR>
+
+# OSBDET (Open Source Big Data Educational Toolkit)
+https://github.com/drcaiomoreno/osbdet <BR>
+Link to download VMs: https://github.com/raulmarinperez/osbdet/releases/tag/v23r1 <BR>
+
+# UTM (Software to Run the OSBDET VM on MacBook)
+https://mac.getutm.app/
+
+# Virtual Box (Virtual Box 7.0.4)
+https://download.virtualbox.org/virtualbox/7.0.4/
+
