@@ -41,6 +41,9 @@ https://github.com/drcaiomoreno/Spark-The-Definitive-Guide<BR>
 # OSBDET (Open Source Big Data Educational Toolkit)
 https://github.com/drcaiomoreno/osbdet <BR>
 
+# Main Page for the OSBDET (Open Source Big Data Educational Toolkit)
+http://localhost:2023/
+
 # Video to explain how to use the OSBDET (Open Source Big Data Educational Toolkit)
 https://raulmarin.me/2023/01/08/its-2023-and-osbdet-2023-release-1-is-out/
 
