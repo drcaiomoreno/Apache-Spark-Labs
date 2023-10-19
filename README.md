@@ -1,6 +1,6 @@
 # Spark Labs
 
-This repo has the main goal to help students to learn Apache Spark using Google Collab.
+This repo has the main goal to help students to learn Apache Spark.
 
 
 # Spark Labs
