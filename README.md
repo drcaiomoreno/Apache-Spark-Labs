@@ -56,3 +56,15 @@ https://mac.getutm.app/
 # Virtual Box (Virtual Box 7.0.4)
 https://download.virtualbox.org/virtualbox/7.0.4/
 
+# ChatGPT as your Personal Assistant 
+https://chat.openai.com/
+
+# Developing Innovative Systems Through Responsible AI In Healthcare
+https://www.youtube.com/watch?v=bhrrJFg6H7U
+
+# Generative AI using Azure Open AI | DataHour by Dr. Caio Moreno, Senior Cloud Architect @Microsoft
+https://www.youtube.com/watch?v=gojbDZmcIyI
+
+# Building Scalable, Secure and Responsible AI Solutions in Azure
+https://www.youtube.com/watch?v=DPRj9tGWpuM
+
