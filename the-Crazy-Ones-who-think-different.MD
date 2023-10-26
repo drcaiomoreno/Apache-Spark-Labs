@@ -8,6 +8,8 @@ https://en.wikipedia.org/wiki/Think_different<BR>
 
 ### Inspiration Video
 
+The Crazy Ones <BR>
+http://www.thecrazyones.it/spot-en.html <BR>
 
 ### Steve Jobs talks about the Crazy Ones - who think different
 https://www.youtube.com/watch?v=VCz_SiPD_X0
@@ -16,6 +18,7 @@ https://www.youtube.com/watch?v=VCz_SiPD_X0
 https://www.youtube.com/watch?v=1UiFExpWQ3U <BR>
 https://www.youtube.com/watch?v=msptE3ezksE <BR>
 https://www.youtube.com/watch?v=eAVW-jLRLE8 <BR>
+https://www.youtube.com/watch?v=m7ehzxCG3n8 <BR>
 
 ### Steve Job's Goodbye Speech
 https://www.youtube.com/watch?v=sJm0P8xpDzA
@@ -27,12 +30,10 @@ https://www.youtube.com/watch?v=ebrvE9KpCik<BR>
 ### Steve Jobs MIT 1992 / Steve Jobs talk /Steve Jobs speech 
 https://www.youtube.com/watch?v=GRHHOI-WvVc<BR>
 https://www.youtube.com/watch?v=Gk-9Fd2mEnI&t=218s<BR>
-https://www.strassmann.com/pubs/mit/1992-steve-jobs.html <BR>
 
 ### Book: The Business Value of Computers: An Executive's Guide
 https://www.amazon.com/exec/obidos/ISBN=0962041327/theinformatioecoA/ <BR>
-
-
+https://www.strassmann.com/pubs/mit/1992-steve-jobs.html <BR>
 
 
 ### Original Poem 
