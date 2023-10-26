@@ -27,6 +27,9 @@ https://www.youtube.com/watch?v=ebrvE9KpCik<BR>
 ### Steve Jobs MIT 1992 / Steve Jobs talk /Steve Jobs speech 
 https://www.youtube.com/watch?v=GRHHOI-WvVc<BR>
 https://www.youtube.com/watch?v=Gk-9Fd2mEnI&t=218s<BR>
+https://www.strassmann.com/pubs/mit/1992-steve-jobs.html <BR>
+https://www.amazon.com/exec/obidos/ISBN=0962041327/theinformatioecoA/ <BR>
+
 
 
 
