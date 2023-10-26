@@ -71,4 +71,10 @@ Sincerely, John<BR>
 ### Steve Jobs introduces iPhone in 2007
 https://www.youtube.com/watch?v=MnrJzXM7a6o
 
+### Steve Jobs' 2005 Stanford Commencement Address
+https://www.youtube.com/watch?v=UF8uR6Z6KLc
+
+
+
+
 
