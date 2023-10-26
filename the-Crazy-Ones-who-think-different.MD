@@ -68,3 +68,7 @@ are the ones who do.<BR><BR>
 
 Sincerely, John<BR>
 
+### Steve Jobs introduces iPhone in 2007
+https://www.youtube.com/watch?v=MnrJzXM7a6o
+
+
