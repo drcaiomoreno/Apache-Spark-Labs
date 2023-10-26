@@ -24,6 +24,11 @@ https://www.youtube.com/watch?v=sJm0P8xpDzA
 Stay Hungry Stay Foolish<BR>
 https://www.youtube.com/watch?v=ebrvE9KpCik<BR>
 
+### Steve Jobs MIT 1992 / Steve Jobs talk /Steve Jobs speech 
+https://www.youtube.com/watch?v=GRHHOI-WvVc<BR>
+https://www.youtube.com/watch?v=Gk-9Fd2mEnI&t=218s<BR>
+
+
 
 ### Original Poem 
 
