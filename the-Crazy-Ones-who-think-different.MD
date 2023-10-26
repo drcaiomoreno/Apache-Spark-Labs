@@ -38,33 +38,33 @@ https://www.strassmann.com/pubs/mit/1992-steve-jobs.html <BR>
 
 ### Original Poem 
 
-This is a poem originally written by John Chapman (Johnny Appleseed) in the early 1800s. Full Poem: 
+This is a poem originally written by John Chapman (Johnny Appleseed) in the early 1800s. Full Poem: <BR><BR>
 
-Dear Kate, 
-Here’s to the crazy ones.
-The misfits. The rebels. The troublemakers.
-The round pegs in the square holes.
-The ones who see things differently.
+Dear Kate, <BR>
+Here’s to the crazy ones.<BR>
+The misfits. The rebels. The troublemakers.<BR>
+The round pegs in the square holes.<BR>
+The ones who see things differently.<BR><BR>
 
-They’re not fond of rules.
-And they have no respect for the status quo.
+They’re not fond of rules.<BR>
+And they have no respect for the status quo.<BR><BR>
 
-You can praise them, disagree with them, quote them,
-disbelieve them, glorify or vilify them.
-About the only thing you can’t do is ignore them.
-Because they change things.
-They invent. They imagine.
-They heal. They explore. They create. They inspire.
-They push the human race forward.
-Maybe they have to be crazy.
+You can praise them, disagree with them, quote them,<BR>
+disbelieve them, glorify or vilify them.<BR>
+About the only thing you can’t do is ignore them.<BR>
+Because they change things.<BR>
+They invent. They imagine.<BR>
+They heal. They explore. They create. They inspire.<BR>
+They push the human race forward.<BR>
+Maybe they have to be crazy.<BR><BR>
 
-How else can you stare at an empty canvas and see a work of art?
-Or sit in silence and hear a song that’s never been written?
-Or gaze at a red planet and see a laboratory on wheels?
-While some may see them as the crazy ones, we see genius.
+How else can you stare at an empty canvas and see a work of art?<BR>
+Or sit in silence and hear a song that’s never been written?<BR>
+Or gaze at a red planet and see a laboratory on wheels?<BR>
+While some may see them as the crazy ones, we see genius.<BR><BR>
 
 Because the people who are crazy enough to think they can change the world,
-are the ones who do.
+are the ones who do.<BR><BR>
 
-Sincerely, John
+Sincerely, John<BR>
 
