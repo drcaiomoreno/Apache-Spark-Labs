@@ -1,8 +1,10 @@
 # Think Different 
 
-https://en.wikipedia.org/wiki/Think_different
+https://en.wikipedia.org/wiki/Think_different<BR>
 
-"People with a passion can change the world....Those people who are crazy enough to think they can change the world are the ones who actually do."
+"People with a passion can change the world....Those people who are crazy enough to think they can change the world are the ones who actually do."<BR>
+
+"Stay Hungry Stay Foolish" <BR>
 
 ### Inspiration Video
 
@@ -12,10 +14,15 @@ https://www.youtube.com/watch?v=VCz_SiPD_X0
 
 ### Here's to the Crazy Ones "Think Different" (Commercial) Steve Jobs
 https://www.youtube.com/watch?v=1UiFExpWQ3U <BR>
-
-https://www.youtube.com/watch?v=msptE3ezksE
-
+https://www.youtube.com/watch?v=msptE3ezksE <BR>
 https://www.youtube.com/watch?v=eAVW-jLRLE8 <BR>
+
+### Steve Job's Goodbye Speech
+https://www.youtube.com/watch?v=sJm0P8xpDzA
+
+### Steve Jobs Speech - Best Motivational Video
+Stay Hungry Stay Foolish<BR>
+https://www.youtube.com/watch?v=ebrvE9KpCik<BR>
 
 
 ### Original Poem 
