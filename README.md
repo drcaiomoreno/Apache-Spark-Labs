@@ -38,6 +38,7 @@ https://github.com/burun/BerkeleyX-Apache-Spark-Labs<BR>
 https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf<BR>
 https://github.com/drcaiomoreno/LearningSparkV2<BR>
 https://github.com/drcaiomoreno/Spark-The-Definitive-Guide<BR>
+https://github.com/VolodymyrGavrysh/My_RoadMap_Data_Science/blob/master/kds/books/Spark-The%20Definitive%20Guide.pdf<BR>
 
 # OSBDET (Open Source Big Data Educational Toolkit)
 https://github.com/drcaiomoreno/osbdet <BR>
