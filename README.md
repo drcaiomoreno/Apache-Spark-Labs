@@ -76,3 +76,6 @@ Old Spark Workshop slides: https://stanford.edu/~rezab/sparkworkshop/slides/hold
 
 ### Cloudera Apache Spark Guide
 https://docs.cloudera.com/documentation/enterprise/6/6.3/PDF/cloudera-spark.pdf
+
+### Free Spark Books
+https://github.com/shahumar/Free-Machine-Learning-Books/
