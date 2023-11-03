@@ -68,3 +68,6 @@ https://www.youtube.com/watch?v=gojbDZmcIyI
 ### Building Scalable, Secure and Responsible AI Solutions in Azure
 https://www.youtube.com/watch?v=DPRj9tGWpuM
 
+### Slides
+Spark Slides
+https://sites.cs.ucsb.edu/~tyang/class/240a16w/slides/SPARK.pdf
