@@ -35,6 +35,7 @@ https://github.com/goldshtn/spark-workshop <BR>
 https://github.com/burun/BerkeleyX-Apache-Spark-Labs<BR>
 
 # Spark Books GitHub Repos:
+https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf<BR>
 https://github.com/drcaiomoreno/LearningSparkV2<BR>
 https://github.com/drcaiomoreno/Spark-The-Definitive-Guide<BR>
 
@@ -69,5 +70,7 @@ https://www.youtube.com/watch?v=gojbDZmcIyI
 https://www.youtube.com/watch?v=DPRj9tGWpuM
 
 ### Slides
-Spark Slides
-https://sites.cs.ucsb.edu/~tyang/class/240a16w/slides/SPARK.pdf
+Spark Slides: https://sites.cs.ucsb.edu/~tyang/class/240a16w/slides/SPARK.pdf
+
+### Cloudera Apache Spark Guide
+https://docs.cloudera.com/documentation/enterprise/6/6.3/PDF/cloudera-spark.pdf
