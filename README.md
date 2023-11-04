@@ -71,8 +71,12 @@ https://www.youtube.com/watch?v=gojbDZmcIyI
 https://www.youtube.com/watch?v=DPRj9tGWpuM
 
 ### Old Spark Slides 
-Spark Slides: https://sites.cs.ucsb.edu/~tyang/class/240a16w/slides/SPARK.pdf<BR>
-Old Spark Workshop slides: https://stanford.edu/~rezab/sparkworkshop/slides/holden.pdf<BR>
+Spark Slides: https://sites.cs.ucsb.edu/~tyang/class/240a16w/slides/SPARK.pdf <BR>
+Old Spark Workshop slides: https://stanford.edu/~rezab/sparkworkshop/slides/holden.pdf <BR>
+Intro to Apache Spark: https://www.slideshare.net/Simplilearn/what-is-apache-spark-introduction-to-apache-spark-apache-spark-tutorial-simplilearn <BR>
+Old Spark Workshop: https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf <BR>
+
+
 
 ### Cloudera Apache Spark Guide
 https://docs.cloudera.com/documentation/enterprise/6/6.3/PDF/cloudera-spark.pdf
