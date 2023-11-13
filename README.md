@@ -76,10 +76,14 @@ Old Spark Workshop slides: https://stanford.edu/~rezab/sparkworkshop/slides/hold
 Intro to Apache Spark: https://www.slideshare.net/Simplilearn/what-is-apache-spark-introduction-to-apache-spark-apache-spark-tutorial-simplilearn <BR>
 Old Spark Workshop: https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf <BR>
 
-
-
 ### Cloudera Apache Spark Guide
 https://docs.cloudera.com/documentation/enterprise/6/6.3/PDF/cloudera-spark.pdf
 
 ### Free Spark Books
 https://github.com/shahumar/Free-Machine-Learning-Books/
+
+
+### Apache Nifi 2022 Youtube Series
+https://github.com/InsightByte/ApacheNifi
+
+
