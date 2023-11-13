@@ -87,3 +87,11 @@ https://github.com/shahumar/Free-Machine-Learning-Books/
 https://github.com/InsightByte/ApacheNifi
 
 
+### An Architecture for Fast and General Data Processing on Large Clusters
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-12.pdf
+
+### Apache Spark: A Unified Engine for Big Data Processing
+https://people.eecs.berkeley.edu/~matei/papers/2016/cacm_apache_spark.pdf
+
+
+
