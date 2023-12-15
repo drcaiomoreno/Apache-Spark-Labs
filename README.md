@@ -10,6 +10,8 @@ This repo has the main goal to help students to learn Apache Spark.
 
 [Lab 3 - Analyzing UK Property Prices](https://github.com/goldshtn/spark-workshop/blob/master/python/lab4-propprices.md#lab-4-analyzing-uk-property-prices)
 
+[Lab 4 - Getting started with MLlib - binary classification example](https://www.databricks.com/notebooks/gallery/GettingStartedWithSparkMLlib.html)
+
 
 # Run Lab 1 on Google Collab
 https://colab.research.google.com/github/drcaiomoreno/mda-spark/blob/main/Lab_1_Running_Spark_on_Google_Collab_Caio_Moreno.ipynb<BR>
