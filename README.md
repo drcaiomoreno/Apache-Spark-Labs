@@ -34,6 +34,9 @@ https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-sc
 https://github.com/goldshtn/spark-workshop <BR>
 https://github.com/burun/BerkeleyX-Apache-Spark-Labs<BR>
 
+# From Spark to Databricks: Spark's Origins, Innovations, and What's Next - with Reynold Xin
+https://sudipchakrabarti.substack.com/p/from-spark-to-databricks-sparks-origins
+
 # Spark Books GitHub Repos:
 https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf<BR>
 https://github.com/drcaiomoreno/LearningSparkV2<BR>
