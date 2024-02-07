@@ -1,6 +1,7 @@
 # Kafka
-https://kafka.apache.org/quickstart
-https://developer.confluent.io/what-is-apache-kafka/
+https://kafka.apache.org/quickstart<BR>
+https://developer.confluent.io/what-is-apache-kafka/<BR>
+https://www.confluent.io/es-es/blog/consume-avro-data-from-kafka-topics-and-secured-schema-registry-with-databricks-confluent-cloud-on-azure/<BR>
 
 ### Apache Kafka Tutorials | Kafka 101
 https://www.youtube.com/watch?v=j4bqyAMMb7o&list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH
