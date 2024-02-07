@@ -16,3 +16,6 @@ https://github.com/confluentinc/confluent-kafka-python/blob/master/examples/prod
 https://en.wikipedia.org/wiki/Apache_Kafka#/media/File:Overview_of_Apache_Kafka.svg<BR>
 
 
+# Spark Streaming - Databricks
+https://www.databricks.com/resources/demos/tutorials/lakehouse-platform/spark-streaming-advanced
+
