@@ -17,5 +17,7 @@ https://en.wikipedia.org/wiki/Apache_Kafka#/media/File:Overview_of_Apache_Kafka.
 
 
 # Spark Streaming - Databricks
-https://www.databricks.com/resources/demos/tutorials/lakehouse-platform/spark-streaming-advanced
+https://www.databricks.com/resources/demos/tutorials/lakehouse-platform/spark-streaming-advanced<BR>
+https://docs.databricks.com/en/structured-streaming/tutorial.html<BR>
+
 
