@@ -101,4 +101,16 @@ https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-12.pdf
 https://people.eecs.berkeley.edu/~matei/papers/2016/cacm_apache_spark.pdf
 
 
+### Databricks Academy
+https://www.databricks.com/learn/training/login
+https://www.youtube.com/watch?v=vOHNywH8WcI
+
+### Databricks Tutorial | Getting started with the Databricks Platform | Databricks Academy
+https://www.youtube.com/watch?v=4y6g0VyC_PY
+
+### Intro to Databricks Lakehouse Platform Architecture and Security
+https://www.youtube.com/watch?v=5oz5dwHU_mM
+
+
+
 
