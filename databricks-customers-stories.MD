@@ -15,6 +15,10 @@ Michelin uses Databricks to streamline business operations<BR>
 https://www.databricks.com/customers/michelin<BR>
 https://www.youtube.com/watch?v=3t38OgFQCTU<BR>
 
+TotalEnergies<BR>
+TotalEnergies Transforms Sustainable Energy with Databricks<BR>
+https://www.youtube.com/watch?v=oam-bHQf_bY<BR>
+
 
 ### UK
 
@@ -43,7 +47,7 @@ https://www.youtube.com/watch?v=CqtM_OmfcsU<BR>
 
 
 
-La Liga
+La Liga<BR>
 Revolutionizing how sports are played and experienced<BR>
 https://www.databricks.com/customers/laliga<BR>
 https://www.youtube.com/embed/EtB71FLb5Y4<BR>
@@ -60,8 +64,14 @@ https://www.databricks.com/blog/santalucia-seguros-enterprise-level-rag<BR>
 
 
 ### Italy 
+
+Prada<BR>
 Prada Group advances analytics and AI capabilities with the Databricks Data Intelligence Platform<BR>
 https://www.youtube.com/watch?v=oUOoUdnjsug<BR>
+
+Barilla<BR>
+Creating a winning recipe for a hyperefficient supply chain<BR>
+https://www.databricks.com/customers/barilla
 
 ### Germany
 Mercedes-Benz Tech Innovation Uses Databricks to Transform the Car Experience<BR>
@@ -99,9 +109,11 @@ https://www.databricks.com/customers/honeywell<BR>
 https://www.youtube.com/watch?v=NgVNviGE2Es<BR>
 https://www.databricks.com/customers/volvo/dlt<BR>
 https://www.databricks.com/customers/cvs-health<BR>
-https://www.databricks.com/customers/walgreens<BR>
-
-
+https://www.databricks.com/customers/walgreens<BR
+https://www.databricks.com/customers/att<BR
+https://www.databricks.com/customers/sse<BR
+https://www.databricks.com/customers/comcast<BR
+https://www.databricks.com/customers/abn-amro<BR
 
 
 
