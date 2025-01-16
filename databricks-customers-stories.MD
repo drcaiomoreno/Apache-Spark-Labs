@@ -98,7 +98,7 @@ UPL uses Databricks to provide sustainable agriculture solutions at scale<BR>
 https://www.databricks.com/customers/upl<BR>
 
 
-### More customers stories
+### US and more customers stories
 https://www.databricks.com/customers/burberry-snowplow  <BR>
 https://www.databricks.com/customers/usps-oig<BR>
 https://www.databricks.com/customers/t-mobile<BR>
