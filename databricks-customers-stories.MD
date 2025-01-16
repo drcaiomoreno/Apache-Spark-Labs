@@ -3,6 +3,30 @@ https://www.databricks.com/customers
 
 ### Selected Databricks Customers Stories by Caio Moreno
 
+### Spain 
+
+Repsol<BR>
+Repsol drives sustainability efforts with the Databricks Data Intelligence Platform<BR>
+https://www.youtube.com/watch?v=CqtM_OmfcsU<BR>
+
+
+
+La Liga<BR>
+Revolutionizing how sports are played and experienced<BR>
+https://www.databricks.com/customers/laliga<BR>
+https://www.youtube.com/embed/EtB71FLb5Y4<BR>
+https://www.computerweekly.com/news/252515372/Spains-La-Liga-looks-to-enleague-data-analytics-with-Databricks<BR>
+
+Amadeus<BR>
+Optimizing global journeys through secure data connectivity<BR>
+Amadeus leverages Databricks to reimagine passenger personalization<BR>
+https://www.databricks.com/customers/amadeus<BR>
+
+Santa Lucia<BR>
+https://www.databricks.com/blog/santalucia-seguros-enterprise-level-rag<BR>
+
+
+
 ### France
 
 AXA<BR>
@@ -37,30 +61,6 @@ How AI is changing drug discovery<BR>
 Millions Of data points processed from thousands of sources<BR>
 https://www.databricks.com/customers/astrazeneca<BR>
 https://www.youtube.com/embed/EXMI85lC_o4<BR>
-
-  
-### Spain 
-
-Repsol<BR>
-Repsol drives sustainability efforts with the Databricks Data Intelligence Platform<BR>
-https://www.youtube.com/watch?v=CqtM_OmfcsU<BR>
-
-
-
-La Liga<BR>
-Revolutionizing how sports are played and experienced<BR>
-https://www.databricks.com/customers/laliga<BR>
-https://www.youtube.com/embed/EtB71FLb5Y4<BR>
-https://www.computerweekly.com/news/252515372/Spains-La-Liga-looks-to-enleague-data-analytics-with-Databricks<BR>
-
-Amadeus<BR>
-Optimizing global journeys through secure data connectivity<BR>
-Amadeus leverages Databricks to reimagine passenger personalization<BR>
-https://www.databricks.com/customers/amadeus<BR>
-
-Santa Lucia<BR>
-https://www.databricks.com/blog/santalucia-seguros-enterprise-level-rag<BR>
-
 
 
 ### Italy 
