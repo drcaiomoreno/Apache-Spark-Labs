@@ -2,6 +2,11 @@
 
 This repo has the main goal to help students to learn Apache Spark.
 
+# Databricks lakehouse-architecture
+AWS: https://docs.databricks.com/en/lakehouse-architecture/reference.html <BR>
+Azure: https://learn.microsoft.com/en-us/azure/databricks/lakehouse-architecture/reference  <BR>
+GCP: https://docs.gcp.databricks.com/en/lakehouse-architecture/reference.html <BR>
+
 # Pokemon or Big Data Game
 https://pixelastic.github.io/pokemonorbigdata/
 
