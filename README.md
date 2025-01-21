@@ -7,6 +7,11 @@ AWS: https://docs.databricks.com/en/lakehouse-architecture/reference.html <BR>
 Azure: https://learn.microsoft.com/en-us/azure/databricks/lakehouse-architecture/reference  <BR>
 GCP: https://docs.gcp.databricks.com/en/lakehouse-architecture/reference.html <BR>
 
+### Free E-Books (Spark & Kafka)
+Spark: https://pages.databricks.com/202003-US-EB-Learning-Spark-2nd-Edition_01_Downloadpage.html<BR>
+Direct link: https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf <BR>
+Kafka:https://www.confluent.io/resources/ebook/kafka-the-definitive-guide/ <BR>
+
 # Pokemon or Big Data Game
 https://pixelastic.github.io/pokemonorbigdata/
 
