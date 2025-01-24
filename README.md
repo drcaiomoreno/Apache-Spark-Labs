@@ -64,7 +64,11 @@ https://github.com/drcaiomoreno/osbdet <BR>
 http://localhost:2023/
 
 # Video to explain how to use the OSBDET (Open Source Big Data Educational Toolkit)
-https://raulmarin.me/2023/01/08/its-2023-and-osbdet-2023-release-1-is-out/
+2024<BR>
+https://raulmarin.me/2024/01/07/its-2024-and-osbdet-2024-release-1-is-out/<BR><BR>
+
+2023<BR>
+https://raulmarin.me/2023/01/08/its-2023-and-osbdet-2023-release-1-is-out/<BR>
 
 # Link to download OSBDET VMs: 
 https://github.com/raulmarinperez/osbdet/releases/tag/v23r1
