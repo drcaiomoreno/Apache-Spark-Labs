@@ -2,6 +2,11 @@
 
 This repo has the main goal to help students to learn Apache Spark.
 
+# E-books about Apache Spark and Kafka
+[Spark: The Definitive Guide: Big Data Processing Made Simple](https://amzn.to/4k6TNzr)
+
+
+
 # Databricks Lakehouse Architecture
 AWS: https://docs.databricks.com/en/lakehouse-architecture/reference.html <BR>
 Azure: https://learn.microsoft.com/en-us/azure/databricks/lakehouse-architecture/reference  <BR>
