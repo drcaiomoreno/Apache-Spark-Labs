@@ -30,6 +30,8 @@ https://pixelastic.github.io/pokemonorbigdata/
 
 [Lab 4 - Getting started with MLlib - binary classification example](https://www.databricks.com/notebooks/gallery/GettingStartedWithSparkMLlib.html)
 
+[Lab 5 - Some Spark Examples to Practice](https://hub.2i2c.mybinder.org/user/apache-spark-2nsa1wta/notebooks/python/docs/source/getting_started/quickstart_df.ipynb)
+
 
 # Run Lab 1 on Google Collab
 https://colab.research.google.com/github/drcaiomoreno/mda-spark/blob/main/Lab_1_Running_Spark_on_Google_Collab_Caio_Moreno.ipynb<BR>
