@@ -133,6 +133,12 @@ https://www.youtube.com/watch?v=4y6g0VyC_PY
 ### Intro to Databricks Lakehouse Platform Architecture and Security
 https://www.youtube.com/watch?v=5oz5dwHU_mM
 
-
-
-
+### Exercises for Apache Spark™ and Scala Workshops
+https://github.com/Marlowess/spark-exercises<BR>
+https://jaceklaskowski.github.io/spark-workshop/exercises/<BR>
+https://jaceklaskowski.github.io/spark-workshop/<BR>
+https://jaceklaskowski.github.io/spark-workshop/slides/#agendas<BR>
+https://jaceklaskowski.github.io/spark-workshop/slides/spark-sql.html#/home<BR>
+https://github.com/gabridego/spark-exercises<BR>
+https://www.machinelearningplus.com/pyspark/pyspark-exercises-101-pyspark-exercises-for-data-analysis/<BR>
+https://www.machinelearningplus.com/pyspark/pyspark-onehot-encoding/<BR>
