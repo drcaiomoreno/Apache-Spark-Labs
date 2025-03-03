@@ -133,6 +133,9 @@ https://www.youtube.com/watch?v=4y6g0VyC_PY
 ### Intro to Databricks Lakehouse Platform Architecture and Security
 https://www.youtube.com/watch?v=5oz5dwHU_mM
 
+### Telefónica España's transformation with Microsoft Azure: Enhancing network performance through big data and AI
+https://www.microsoft.com/en/customers/story/21150-telefonica-group-spain-azure-ai-and-machine-learning#section-block-body
+
 ### Exercises for Apache Spark™ and Scala Workshops
 https://github.com/Marlowess/spark-exercises<BR>
 https://jaceklaskowski.github.io/spark-workshop/exercises/<BR>
