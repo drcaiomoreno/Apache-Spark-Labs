@@ -145,3 +145,9 @@ https://jaceklaskowski.github.io/spark-workshop/slides/spark-sql.html#/home<BR>
 https://github.com/gabridego/spark-exercises<BR>
 https://www.machinelearningplus.com/pyspark/pyspark-exercises-101-pyspark-exercises-for-data-analysis/<BR>
 https://www.machinelearningplus.com/pyspark/pyspark-onehot-encoding/<BR>
+
+
+### Learn Apache Kafka + Confluent Cloud
+https://developer.confluent.io/courses/#fundamentals
+https://www.confluent.io/training/
+https://training.confluent.io/content/courses
