@@ -147,7 +147,7 @@ https://www.machinelearningplus.com/pyspark/pyspark-exercises-101-pyspark-exerci
 https://www.machinelearningplus.com/pyspark/pyspark-onehot-encoding/<BR>
 
 
-### Learn Apache Kafka + Confluent Cloud
-https://developer.confluent.io/courses/#fundamentals
-https://www.confluent.io/training/
-https://training.confluent.io/content/courses
+### Learn Apache Kafka + Confluent Cloud 
+https://developer.confluent.io/courses/#fundamentals<BR>
+https://www.confluent.io/training/<BR>
+https://training.confluent.io/content/courses<BR>
