@@ -151,3 +151,6 @@ https://www.machinelearningplus.com/pyspark/pyspark-onehot-encoding/<BR>
 https://developer.confluent.io/courses/#fundamentals<BR>
 https://www.confluent.io/training/<BR>
 https://training.confluent.io/content/courses<BR>
+
+### Apache Spark Lazy Evaluation 
+In Apache Spark, lazy evaluation means that transformations on distributed datasets (such as DataFrames, Datasets, or RDDs) are not executed immediately when you write them in code. Instead, Spark records each step in a logical/execution plan (lineage graph / DAG) and only runs the computation when you call an action that requires a result or side effect (like .count(), .show(), .collect(), or .write.parquet(...)).
